@@ -23,9 +23,9 @@
   <a href="mailto:shivanimoparthi082@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/shivani-moparthi-6a3a40259/" target="_blank">
+  <!-- <a href="https://www.linkedin.com/in/shivani-moparthi-6a3a40259/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
+  </a> -->
 </p>
 
 <!-- Replace the email and LeetCode placeholders above. Remove any badge you don't want. -->
@@ -66,16 +66,15 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=shivanim24&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Shivani's GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanim24&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanim24&hide_border=true&theme=tokyonight" alt="GitHub streak" />
-</p>
+</p> -->
 
 <!--
 Theme options you can swap in (change theme=... in all three URLs):
